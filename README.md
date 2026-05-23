@@ -43,11 +43,6 @@
 | ☁️ Azure ML 팀 프로젝트 | 새싹 AI엔지니어 과정 — 시작 후 업데이트 예정 | 🟡 진행 예정 |
 | 📝 TIL | CI/CD · Azure · Python 학습 기록 | 🟢 진행 중 |
 
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehee-jeon&show_icons=true&theme=default&hide_border=true)
 
 ---
 
