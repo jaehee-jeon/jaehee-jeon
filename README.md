@@ -18,7 +18,7 @@
 **임베디드 형상관리자 (CM)** — Gerrit · Jenkins · Artifactory · Shell · Python  
 빌드 자동화 스크립트 개발, 서버 용량 관리 쉘스크립트 개발, Artifactory 산출물 자동 삭제 (Jenkins Cron + Python), BVT 검증, 빌드 장애 분석 및 보고
 
-**웹 개발** — Java · JS · SQL · Spring Boot 계열  
+**웹 개발 (full stack)** — Java · JS · SQL · Spring Boot 계열  
 레거시 사이트 통합 및 고도화
 
 ---
