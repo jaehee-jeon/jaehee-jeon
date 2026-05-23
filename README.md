@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&width=600&lines=웹 개발+→+임베디드+형상관리자+→+[NOW✨]🎁❓)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&width=600&lines=웹+개발+→+임베디드+형상관리자+→+[NOW✨]🎁❓)](https://git.io/typing-svg)
 
 
 ### 📡 Status
