@@ -1,22 +1,4 @@
-### 🙋 About Me
-
-| | |
-|---|---|
-| 🎓 수료 중 | 새싹 MS AI엔지니어 과정 |
-| 🎯 목표 | DevOps / 인프라 엔지니어 |
-| 📖 공부 중 | CI/CD · Azure · 컨테이너 |
-| 🚀 곧 시작 | Azure ML 팀 프로젝트 |
-
----
-
-### 💼 경력
-
-**임베디드 형상관리자 (CM)** — Gerrit · Jenkins · Artifactory · Shell · Python  
-빌드 자동화 스크립트 개발, BVT 검증, 빌드 장애 분석 및 보고
-
-**웹 개발** — Java · JavaScript · SQL · Spring Boot 사이트 통합 작업
-
----
+## 🙋 About Me
 
 ### 🛠 Tech Stack
 
@@ -33,6 +15,24 @@
 ![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+| | |
+|---|---|
+| 🎓 수료 중 | 새싹 MS AI엔지니어 과정 |
+| 🎯 목표 | DevOps / 인프라 엔지니어 |
+| 📖 공부 중 | CI/CD · Azure · 컨테이너 |
+| 🚀 곧 시작 | Azure ML 팀 프로젝트 |
+
+---
+
+### 💼 경력
+
+**임베디드 형상관리자 (CM)** — Gerrit · Jenkins · Artifactory · Shell · Python  
+빌드 자동화 스크립트 개발, 서버 용량 관리 쉘스크립트 개발, Artifactory 산출물 자동 삭제 (Jenkins Cron + Python), BVT 검증, 빌드 장애 분석 및 보고
+
+**웹 개발** — Java · JavaScript · SQL · Spring Boot 사이트 통합 및 고도화 작업
 
 ---
 
