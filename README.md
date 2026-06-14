@@ -1,11 +1,6 @@
 
-### 📡 Status
+![Typing SVG](https://git.io/typing-svg)
 
-| | |
-|---|---|
-| 🎓 수료 중 | 새싹 MS AI엔지니어 과정 |
-| 🎯 목표 | DevOps / 인프라 엔지니어 |
-| 📖 공부 중 | CI/CD |
 
 ---
 
