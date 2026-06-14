@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&width=600&lines=웹+개발+→+임베디드+형상관리자+→+[NOW✨]🎁❓)](https://git.io/typing-svg)
-
 
 ### 📡 Status
 
@@ -8,17 +6,6 @@
 | 🎓 수료 중 | 새싹 MS AI엔지니어 과정 |
 | 🎯 목표 | DevOps / 인프라 엔지니어 |
 | 📖 공부 중 | CI/CD |
-
----
-
-
-### 💼 Experience
-
-**임베디드 형상관리자 (CM)** — Gerrit · Jenkins · Artifactory · Shell · Python  
-빌드 자동화 스크립트 개발, 서버 용량 관리 쉘스크립트 개발, Artifactory 산출물 자동 삭제 (Jenkins Cron + Python), BVT 검증, 빌드 장애 분석 및 보고
-
-**웹 개발 (full stack)** — Java · JS · SQL · Spring Boot 계열  
-레거시 사이트 통합 및 고도화
 
 ---
 
