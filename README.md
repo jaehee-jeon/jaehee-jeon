@@ -38,7 +38,7 @@
 | 프로젝트 | 설명 | 상태 |
 |---|---|---|
 | ☁️ Azure ML 팀 프로젝트 | 새싹 AI엔지니어 과정 팀 프로젝트 | 🟡 in progress |
-| 🏔️ from-zero-to-ai | Sesac MS AI Engineer study group | 🟢 ongoing |
+| 🏔️ from-zero-to-ai | Sesac MS AI Engineer study group | END |
 | 📝 TIL | CI/CD · Azure · Python 학습 기록 | 🟢 ongoing |
 
 
